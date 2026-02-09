@@ -9,12 +9,6 @@ assignees: ''
 ## User Story
 As a [role], I want [action] so that [benefit].
 
-## Relations
-<!-- Link related issues. Remove lines that don't apply. -->
-- **Parent:** #
-- **Blocks:** #
-- **Blocked by:** #
-
 ## Acceptance Criteria
 <!-- Each criterion must be measurable and objectively verifiable (pass/fail). -->
 - [ ] Criterion 1
