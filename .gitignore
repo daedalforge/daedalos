@@ -1,0 +1,29 @@
+# Build artifacts
+/build/
+/tools/
+/sources/*.tar.*
+/sources/*.patch
+
+# Compiled objects
+*.o
+*.a
+*.so
+*.ko
+
+# Kernel build
+*.img
+*.iso
+*.bin
+
+# Logs
+*.log
+/logs/
+
+# Temporary files
+*.tmp
+*.swp
+*~
+
+# Editor directories
+.vscode/
+.idea/
